@@ -1,3 +1,6 @@
+![exp-2](https://github.com/user-attachments/assets/18d641fa-9f87-4858-a989-a90e55b69637)
+![exp 2](https://github.com/user-attachments/assets/c38d09c6-5a96-40b9-b3bd-20581caa2c3d)
+![exp 2](https://github.com/user-attachments/assets/1b14aba7-ccfd-479f-8888-bafa016ab968)
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
